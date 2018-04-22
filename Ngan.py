@@ -1,5 +1,5 @@
 print('My name is Ngan')
-
+print('...and my name is lesia!')
 from __future__ import print_function
 
 import random
